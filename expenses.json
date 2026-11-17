@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1794214773771,
+    "title": "Petrol",
+    "description": "Fuel expense for bike",
+    "amount": 1000,
+    "category": "Travel",
+    "paymentMethod": "Cash",
+    "expenseDate": "2026-11-09",
+    "createdDate": "2026-11-09"
+  },
+  {
+    "id": 1794215064226,
+    "title": "Breakfast",
+    "description": "Morning coffee with friends",
+    "amount": 500,
+    "category": "Food",
+    "paymentMethod": "Cash",
+    "expenseDate": "2026-11-09",
+    "createdDate": "2026-11-09"
+  },
+  {
+    "id": 1794215159290,
+    "title": "Internet Bill",
+    "description": "Monthly internet recharge",
+    "amount": 1500,
+    "category": "Bills",
+    "paymentMethod": "UPI",
+    "expenseDate": "2026-11-09",
+    "createdDate": "2026-11-09"
+  },
+  {
+    "id": 1794215249087,
+    "title": "Groceries",
+    "description": "Purchased household items",
+    "amount": 15000,
+    "category": "Shopping",
+    "paymentMethod": "Card",
+    "expenseDate": "2026-11-09",
+    "createdDate": "2026-11-09"
+  },
+  {
+    "id": 1794215370988,
+    "title": "Medicine",
+    "description": "Purchased medicines",
+    "amount": 1000,
+    "category": "Other",
+    "paymentMethod": "Card",
+    "expenseDate": "2026-11-09",
+    "createdDate": "2026-11-09"
+  }
+]
